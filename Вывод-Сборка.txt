@@ -1,0 +1,12 @@
+﻿1>------ Сборка начата: проект: Tetris_final, Конфигурация: Debug Win32 ------
+1>Tetris_final.cpp
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(265): warning C4018: <: несоответствие типов со знаком и без знака
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(449): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(468): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>c:\users\1\source\repos\tetris_final\tetris_final\tetris_final.cpp(376): warning C4715: Game::randFigure: значение возвращается не при всех путях выполнения
+1>Tetris_final.vcxproj -> C:\Users\1\source\repos\Tetris_final\Debug\Tetris_final.exe
+1>Сборка проекта "Tetris_final.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
